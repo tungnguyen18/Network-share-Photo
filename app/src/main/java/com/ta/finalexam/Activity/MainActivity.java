@@ -249,6 +249,6 @@ public class MainActivity extends CommonActivity implements FragmentMenu.Navigat
         }
     }
     public void onLockDrawer(){
-        drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
+       // drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
     }
 }
